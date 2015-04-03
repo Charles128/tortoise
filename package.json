@@ -1,0 +1,22 @@
+{
+  "name": "tortoise",
+  "version": "0.0.1",
+  "description": "Rate limiting for complex tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plainlegal/tortoise.git"
+  },
+  "keywords": [
+    "rate-limiting"
+  ],
+  "author": "Gabe Kneisley, Charles Amoako",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plainlegal/tortoise/issues"
+  },
+  "homepage": "https://github.com/plainlegal/tortoise"
+}
